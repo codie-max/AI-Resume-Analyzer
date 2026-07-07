@@ -99,17 +99,49 @@ streamlit run app.py
 
 ---
 
-## 📸 Screenshots
+## 📸 Application Preview
 
-### Home Page
+## Screenshots
 
-_Add screenshot here_
+### 🏠 Home Page
 
-### Resume Analysis
-
-_Add screenshot here_
+![Home Page](screenshots/home.png)
 
 ---
+
+### 📄 Upload Resume
+
+![Upload Resume](screenshots/upload.png)
+
+---
+
+### 💻 Skills Found
+
+![Skills Found](screenshots/skills.png)
+
+---
+
+### 📊 ATS Score
+
+![ATS Score](screenshots/analysis1.png)
+
+---
+
+### 🤖 AI Analysis
+
+![AI Analysis](screenshots/analysis2.png)
+
+---
+
+### 📝 Resume Improvements
+
+![Resume Improvements](screenshots/analysis3.png)
+
+---
+
+### 🎯 Final Recommendation
+
+![Final Recommendation](screenshots/analysis4.png)
 
 ## 🔮 Future Improvements
 
